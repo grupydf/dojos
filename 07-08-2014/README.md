@@ -1,14 +1,14 @@
 Problema
 ========
 
-Elaborar uma função que realize a cifração de cesar em uma mensagem textual com um alfabeto de a-z mais espaço
+Elaborar uma função que realize a cifração de césar em uma mensagem textual com um alfabeto de a-z mais espaço
 
 Retrospectiva
 =============
 
 ##Prós
 - Iniciativa
-- Troca de caminhos
+- Pontos de vista diferentes
 - Participação
 - Interesse
 - Diversão
@@ -17,14 +17,14 @@ Retrospectiva
 
 ##Contras
 - Atraso +++++
-- Semafore automático
-- Ausência de python 3
+- Semáforo automático
+- Não foi em Python 3
 - teclado em português
-- Diciplina do dojo
+- Disciplina do dojo
 - Slide de introdução
 
 ##Sugestões de temas
 - Outros métodos de cifração
 - Dojo com microcontroladores e sensores
-- Análize probabilistica de cifra
+- Análise probabilística de cifra
 - Processamento de imagem
