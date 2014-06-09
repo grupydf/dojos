@@ -5,7 +5,7 @@ Neste repositório encontra-se os registros dos dojos realizados pelo Grupy-DF.
 
 As pastas estão organizadas por data e tema no formato:
 
-**dd-mm-yyyy_tema**
+**yyyy-mm-dd_tema**
 
 Em cada pasta encontram-se:
 
