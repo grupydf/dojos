@@ -6,6 +6,8 @@ Elaborar uma função que realize a cifração de césar em uma mensagem textual
 Retrospectiva
 =============
 
+Número de participantes: 7
+
 ##Prós
 - Iniciativa
 - Pontos de vista diferentes
