@@ -1,6 +1,6 @@
 # Problema
 
-Elaborar uma função que realize a [cifração de césar](http://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar) em uma mensagem textual utilizando um alfabeto de **a** até **z** mais o caractere de **espaço** e retorne a mensagem cifrada.
+Elaborar uma função que realize a [cifração de César](http://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar) em uma mensagem textual utilizando um alfabeto de **a** até **z** mais o caractere de **espaço** e retorne a mensagem cifrada.
 
 # Retrospectiva
 

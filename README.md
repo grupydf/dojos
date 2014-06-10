@@ -1,6 +1,6 @@
 # Dojos
 
-Neste repositório encontra-se os registros dos dojos realizados pelo Grupy-DF.
+Neste repositório encontram-se os registros dos dojos realizados pelo GruPy-DF.
 
 Em cada pasta encontram-se:
 
@@ -11,4 +11,4 @@ Em cada pasta encontram-se:
 
 ## Dojos realizados
 
-* [2014-08-07](https://github.com/grupydf/dojos/tree/master/2014-08-07): Cifração de césar
+* [2014-08-07](https://github.com/grupydf/dojos/tree/master/2014-08-07): Cifração de César
