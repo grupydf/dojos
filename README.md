@@ -2,6 +2,10 @@
 
 Neste repositório encontram-se os registros dos dojos realizados pelo GruPy-DF.
 
+As pastas estão organizadas por data, seguindo o seguinte padrão:
+
+**yyyy-mm-dd**
+
 Em cada pasta encontram-se:
 
 * O código fonte produzido no dojo
@@ -11,4 +15,4 @@ Em cada pasta encontram-se:
 
 ## Dojos realizados
 
-* [2014-08-07](https://github.com/grupydf/dojos/tree/master/2014-08-07): Cifra de César
+* [2014-06-08](https://github.com/grupydf/dojos/tree/master/2014-06-08): Cifra de César
