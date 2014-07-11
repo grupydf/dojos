@@ -15,4 +15,5 @@ Em cada pasta encontram-se:
 
 ## Dojos realizados
 
-* [2014-06-08](https://github.com/grupydf/dojos/tree/master/2014-06-08): Cifra de César
+* [2014-06-08](2014-06-08): Cifra de César
+* [2014-07-10](2014-07-10): Interseção de Retas
