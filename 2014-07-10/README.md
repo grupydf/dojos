@@ -31,11 +31,11 @@ o mesmo pertence.
 
 
 ##Participantes
-Deco
-[Dirley Rodrigues](https://github.com/ravishi)
-Ezer Fernandes
-[Humberto Rocha](https://github.com/humrochagf)
-[Marco Rougeth](https://github.com/rougeth)
-[Mário Sérgio](https://github.com/sergiomario)
-[Pedro Martins](https://github.com/Pedro-M)
-[Samuel Teixeira](https://github.com/arcanosam)
+* Deco
+* [Dirley Rodrigues](https://github.com/ravishi)
+* Ezer Fernandes
+* [Humberto Rocha](https://github.com/humrochagf)
+* [Marco Rougeth](https://github.com/rougeth)
+* [Mário Sérgio](https://github.com/sergiomario)
+* [Pedro Martins](https://github.com/Pedro-M)
+* [Samuel Teixeira](https://github.com/arcanosam)
