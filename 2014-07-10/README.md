@@ -31,7 +31,7 @@ o mesmo pertence.
 
 
 ##Participantes
-* Deco
+* [decko](https://github.com/decko)
 * [Dirley Rodrigues](https://github.com/ravishi)
 * Ezer Fernandes
 * [Humberto Rocha](https://github.com/humrochagf)
