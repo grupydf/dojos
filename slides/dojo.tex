@@ -7,17 +7,21 @@
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 
+\defbeamertemplate*{title page}{customized}[1][]
+{
+   \centerline{\huge\inserttitle}
 
-% Dados de título
+  \center\includegraphics[width=0.8\textwidth]{img/logo}
+
+  \centerline{\tiny\insertdate}
+}
+
 \title{Coding Dojo}
-\author{Grupy-DF}
 \date{\today}
-
 
 % Corpo do documento
 \begin{document}
   % Título
   \maketitle
-
   % Conteúdo
 \end{document}
