@@ -1,0 +1,105 @@
+% Classe do documento
+\documentclass{beamer}
+
+% Pacotes utilizados
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\makeatletter
+\newcommand{\setlistspacing}[2]{\def\@ld{#1}\expandafter\def\csname
+@list\romannumeral\@ld \endcsname{\leftmargin\csname
+leftmargin\romannumeral\@ld \endcsname
+              \topsep    #2
+              \parsep    0\p@   \@plus\p@
+              \itemsep   #2}}
+\makeatother
+
+\defbeamertemplate*{title page}{customized}[1][]
+{
+   \centerline{\huge\inserttitle}
+
+  \center\includegraphics[width=0.8\textwidth]{img/logo}
+
+  \centerline{\tiny\insertdate}
+}
+
+\title{Coding Dojo}
+\date{\today}
+
+% Corpo do documento
+\begin{document}
+  % Título
+  \maketitle
+  % Conteúdo
+  \begin{frame}
+    \frametitle{\huge Dojo?}
+    \begin{figure}[htbp]
+      \centering
+      \includegraphics[width=\textwidth]{img/dojo}
+    \end{figure}
+  \end{frame}
+
+  \begin{frame}
+    \frametitle{\huge Dojo?}
+    \begin{center}
+    \huge Um grupo de pessoas reunidas para resolver um problema de programação, trocar experiências, aprender e se divertir!
+    \end{center}
+  \end{frame}
+
+  {\setlistspacing{1}{3ex}
+
+  \begin{frame}
+    \frametitle{\huge Características}
+
+    \begin{itemize}
+      \item Ambiente colaborativo
+      \item Todos são bem vindos
+      \item Liberdade de expressão
+      \item Diversão em primeiro lugar
+    \end{itemize}
+    
+  \end{frame}
+  
+
+  \begin{frame}
+    \frametitle{\huge Requerimentos}
+    
+    \begin{itemize}
+      \item Uma sala com cadeiras
+      \item Um computador
+      \item Um projetor
+    \end{itemize}
+  \end{frame}
+  }
+
+  \begin{frame}
+    \frametitle{\huge Dinâmica}
+    
+    \begin{figure}[htbp]
+      \centering
+      \includegraphics[width=0.7\textwidth]{img/flow}
+    \end{figure}
+    \centerline{\#TDD \#PairPrograming \#BabySteps \#GoHorse}
+  \end{frame}
+
+  {\setlistspacing{1}{3ex}
+
+  \begin{frame}
+    \frametitle{\huge Pós Dojo}
+    
+    \begin{itemize}
+      \item Prós
+      \item Contras
+      \item Sugestões
+      \item Comentários
+    \end{itemize}
+  \end{frame}
+  }
+
+  \begin{frame}
+    \centerline{\huge Vamos programar!!!}
+  \end{frame}
+
+\end{document}
