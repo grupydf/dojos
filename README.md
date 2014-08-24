@@ -17,3 +17,4 @@ Em cada pasta encontram-se:
 
 * [2014-06-08](2014-06-08): Cifra de César
 * [2014-07-10](2014-07-10): Interseção de Retas
+* [2014-08-23](2014-08-23): Torre de Hanoi parte1
