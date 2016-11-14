@@ -1,0 +1,4 @@
+wxPython-Phoenix==3.0.3.dev2680+55dda48
+nose==1.3.7
+dose==1.2.0
+pygame==1.9.2b8
