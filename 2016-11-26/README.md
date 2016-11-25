@@ -16,4 +16,4 @@ Implementar uma função que recebe uma matriz 50X50 como seed, aplique as regra
 
 
 ## Participantes
-* Não preenchido
+* [Humberto Rocha](https://github.com/humrochagf)
