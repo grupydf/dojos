@@ -46,7 +46,7 @@ Desenvolva um programa que determine se um número é feliz ou triste.
 
 
 ## Participantes
-* [Julio Saraiva](https://github.com/ojuliosaraiva)
+* [Julio Saraiva](https://github.com/juliosaraiva)
 * [Daniel Cardoso](https://github.com/danielfacuricardoso)
 * [Tania](https://github.com/taniaa)
 * [Luciana Almeida](https://github.com/lucianaalmeida)
