@@ -21,3 +21,4 @@ Em cada pasta encontram-se:
 * [2014-12-13](2014-12-13): Skip list
 * [2015-12-27](2015-12-27): Ordenação
 * [2016-11-26](2016-11-26): Game Of Life
+* [2017-08-19](2017-08-19): Anagramas e Números Felizes
