@@ -56,7 +56,7 @@ def calcula_genoma(genoma):
             resultado += ' '
         resultado += f'G {guanina}'
 
-    if tinina!= 0:
+    if tinina != 0:
         if resultado:
             resultado += ' '
         resultado += f'T {tinina}'
