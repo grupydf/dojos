@@ -22,3 +22,6 @@ Em cada pasta encontram-se:
 * [2015-12-27](2015-12-27): Ordenação
 * [2016-11-26](2016-11-26): Game Of Life
 * [2017-08-19](2017-08-19): Anagramas e Números Felizes
+* [2017-11-14](2017-11-14): Genomas
+* [2018-04-17](2018-04-17): Poker
+* [2018-07-10](2018-07-10): Diamantes
