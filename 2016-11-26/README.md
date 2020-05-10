@@ -35,7 +35,7 @@ Implementar uma função que recebe uma matriz 50X50 como seed, aplique as regra
 * [Marco Rougeth](https://github.com/rougeth)
 * [Felipe Brum Araújo]
 * [Thiago de Souza]
-* [Bernardo Alves Furtado]
-* [Arthur Mota Furtado]
+* [Bernardo Alves Furtado](https://github.com/bafurtado)
+* [Arthur Mota Furtado](https://github.com/bomdia12)
 * [Fabiana Ganem](https://github.com/fabianagoa)
 * [Marcos]
